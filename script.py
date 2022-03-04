@@ -7,7 +7,7 @@ from time import sleep
 message_pos = (1349, 1031)
 copystart_pos = (1653, 976)
 copyend_pos = (1341, 864)
-notepad_pos = (428, 793)
+notepad_pos = (493, 735)
 
 # define input devices
 mouse = mouse.Controller()
