@@ -1,0 +1,14 @@
+p!fish 60second delay
+p!daily 24hours delay
+p!trivia 10minute delay
+p!work 5minute delay
+
+p!sell all
++:check:
+
+p!deposit all
+
++:any_emoji_here:
+add a reaction to any message
+
+after depositing all, withdraw 100 for rods, rince and repeat
